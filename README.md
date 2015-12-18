@@ -1,2 +1,2 @@
-# BridgestoneSMS
-Android Webapp for Bridgestone SMS Notifications to clients.
+# BridgeSMS
+Android Webapp for SMS Notifications to clients.
